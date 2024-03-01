@@ -1,0 +1,1 @@
+Rainfall prediction is crucial for various sectors such as agriculture, water resource management, and disaster preparedness. In this project, the aim is to develop a machine learning model to predict whether it will rain or not based on historical weather data.
